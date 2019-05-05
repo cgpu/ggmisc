@@ -1,5 +1,3 @@
-webPalette <- function(...){
-      
       # Totally found it here: https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2
   
       # Set colors
@@ -19,10 +17,11 @@ webPalette <- function(...){
       #'
       #' @param ... Character names of my_color_palette 
       #'
-        cols <- c(...)
+webPalette <- function(...) {
+  cols <- c(...)
 
-        if (is.null(cols))
-          return (my_color_palette)
+  if (is.null(cols))
+    return (my_color_palette)
 
-        my_color_palette[cols]
+  my_color_palette[cols]
 }
