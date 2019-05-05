@@ -8,8 +8,8 @@ my_color_palette  = c( `cta blue`            = '#0198F5',
                        `grey light`          = '#DFE6F4',  
                        `grey medium`         = '#A9BACA', 	
                        `grey dark`           = '#4A637B', 
-                       `black-treacle`       = '#000000',  
-                       `unicorn-white`       = '#FFFFFF' )  
+                       `black treacle`       = '#000000',  
+                       `unicorn white`       = '#FFFFFF' )  
 
 
 # Roxygen comments: 
