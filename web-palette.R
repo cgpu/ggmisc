@@ -1,6 +1,3 @@
-pinkpatheR <- function(){
-
-
 webPalette <- function(){
 my_color_palette = data.frame(hex        = c('#0198F5' ,  # 1. cta-blue 
                                              '#FA5E5B',   # 2. watermelon-fail
