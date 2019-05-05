@@ -1,15 +1,15 @@
 # Totally found it here: https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2
 
 # Set colors
-my_color_palette  = c( `cta blue`            = '#0198F5' ,  # 1. cta-blue 
-                       `watermelon fail` .   = '#FA5E5B',   # 2. watermelon-fail
-                       `notification yellow` = '#FEC334',   # 3. notification-yellow
-                       `success green`       = '#31C052',   # 4. success-green
-                       `grey light`          = '#DFE6F4',   # 5. grey-light
-                       `grey medium`         = '#A9BACA', 	# 6. grey-medium 	
-                       `grey dark`           = '#4A637B',   # 7. grey-dark
-                       `black-treacle`       = '#000000',   # 8. black-treacle
-                       `unicorn-white`       = '#FFFFFF' )  # 9. unicorn-white                                           ),                              )
+my_color_palette  = c( `cta blue`            = '#0198F5',  
+                       `watermelon fail`     = '#FA5E5B',  
+                       `notification yellow` = '#FEC334',  
+                       `success green`       = '#31C052',   
+                       `grey light`          = '#DFE6F4',  
+                       `grey medium`         = '#A9BACA', 	
+                       `grey dark`           = '#4A637B', 
+                       `black-treacle`       = '#000000',  
+                       `unicorn-white`       = '#FFFFFF' )                                    ),                              )
 
 
 # Roxygen comments: 
