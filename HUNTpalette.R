@@ -21,7 +21,7 @@ my_color_palette  =  c( `pink cranberry`      = '#da627d',
 #'
 #' @param ... Character names of my_color_palette 
 #'
-webPalette <- function(...) {
+HUNTpalette <- function(...) {
   cols <- c(...)
 
   if (is.null(cols))
